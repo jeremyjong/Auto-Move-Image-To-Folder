@@ -1,0 +1,7 @@
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\bin\Release\AutoFolderImages.exe.config
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\bin\Release\AutoFolderImages.exe
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\bin\Release\AutoFolderImages.pdb
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\obj\Release\AutoFolderImages.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\obj\Release\AutoFolderImages.exe
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\obj\Release\AutoFolderImages.pdb
+C:\Users\Jeremy\source\repos\AutoFolderImages\AutoFolderImages\obj\Release\AutoFolderImages.csproj.AssemblyReference.cache
